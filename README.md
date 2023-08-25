@@ -1,4 +1,4 @@
-# Object-Oriented Programming Challenge: SVG Logo Maker
+# SVG Logo Maker
 
 <br>
 This is an SVG Logo Maker created for the Monash module 10 challenge! 
@@ -81,4 +81,3 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered<br>
 <br>
 <br>
 
-# SVG-Logo-Maker
